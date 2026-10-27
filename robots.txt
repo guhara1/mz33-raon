@@ -1,0 +1,26 @@
+User-agent: Yeti
+Allow: /
+
+User-agent: NaverBot
+Allow: /
+
+User-agent: Daumoa
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: bingbot
+Allow: /
+
+User-agent: *
+Disallow: /
+
+Sitemap: https://raonmassage.netlify.app/sitemap.xml
+Sitemap: https://raonmassage.netlify.app/sitemap-hub.xml
+Sitemap: https://raonmassage.netlify.app/sitemap-area.xml
+Sitemap: https://raonmassage.netlify.app/sitemap-topic.xml
+Sitemap: https://raonmassage.netlify.app/rss.xml
